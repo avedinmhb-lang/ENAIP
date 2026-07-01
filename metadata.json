@@ -1,0 +1,6 @@
+{
+  "name": "CILS B1 Cittadinanza Practice",
+  "description": "Interactive preparation web app for the Italian CILS B1 Citizenship exam (Modulo Cittadinanza), featuring Listening, Reading, Writing, and Speaking sections with AI-powered endless quiz generation and grading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
